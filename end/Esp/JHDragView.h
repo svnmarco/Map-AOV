@@ -1,0 +1,9 @@
+#import "API/APIKey.h"
+#import <UIKit/UIKit.h>
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface JHDragView : UIView
+@end
+
+NS_ASSUME_NONNULL_END

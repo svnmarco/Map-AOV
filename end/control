@@ -1,0 +1,9 @@
+Package: com.lqmb.tuandev
+Name: Hack LQMB TuanDev
+Depends: mobilesubstrate, preferenceloader
+Version: 1.7.0
+Architecture: iphoneos-arm
+Description: zalo: 0348428587
+Maintainer: TuanDev
+Author: TuanDev
+Section: Tweaks
